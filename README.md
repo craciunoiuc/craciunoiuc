@@ -1,4 +1,4 @@
-<img src=https://github.com/craciunoiuc/craciunoiuc/raw/master/craciunoiuc_logo.svg/>
+<img src=https://github.com/craciunoiuc/craciunoiuc/raw/main/craciunoiuc_logo.svg/>
 
 <!--
 **craciunoiuc/craciunoiuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
