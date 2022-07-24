@@ -25,17 +25,18 @@
 </a>
 
 <a href="https://github.com/craciunoiuc">
-    <img align="center" width="49%" src="./achievements.svg" />
+    <img align="center" width="49%" src="./contributions-indepth.svg" />
 </a>
 
 <a href="https://github.com/craciunoiuc">
-    <img align="center" width="49%" src="./topics_icons.svg" />
+    <img align="center" width="49%" src="./achievements.svg" />
 </a>
+
+<!-- <a href="https://github.com/craciunoiuc">
+    <img align="center" width="49%" src="./topics_icons.svg" />
+</a> -->
 
 <!-- <a href="https://github.com/craciunoiuc">
     <img align="center" width="49%" src="./stackoverflow.svg" />
 </a> -->
 
-<a href="https://github.com/craciunoiuc">
-    <img align="center" width="49%" src="./contributions-indepth.svg" />
-</a>
