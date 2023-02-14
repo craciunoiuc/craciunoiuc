@@ -186,5 +186,4 @@ jobs:
           token: ${{ secrets.METRICS_SECRET }}
           base: ""
           plugin_notable: yes
-          plugin_notable_indepth: yes
           plugin_notable_repositories: yes
