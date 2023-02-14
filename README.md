@@ -24,9 +24,9 @@
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
 
-<a href="https://github.com/craciunoiuc">
+<!-- <a href="https://github.com/craciunoiuc">
     <img align="center" width="49%" src="./contributions-indepth.svg" />
-</a>
+</a> -->
 
 <a href="https://github.com/craciunoiuc">
     <img align="center" width="49%" src="./achievements.svg" />
