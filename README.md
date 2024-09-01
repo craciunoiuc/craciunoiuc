@@ -40,3 +40,6 @@
     <img align="center" width="49%" src="./stackoverflow.svg" />
 </a> -->
 
+### Visitor Count
+
+https://profile-counter.glitch.me/craciunoiuc/count.svg
