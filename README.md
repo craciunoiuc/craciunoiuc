@@ -12,9 +12,9 @@
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
 
-<a href="https://github.com/craciunoiuc">
+<!-- <a href="https://github.com/craciunoiuc">
   <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
+</a> -->
 
 <a href="https://github.com/craciunoiuc">
     <img align="center" width="49%" src="./issue_pr_lang.svg" />
@@ -28,9 +28,10 @@
     <img align="center" width="49%" src="./contributions-indepth.svg" />
 </a> -->
 
+<!--
 <a href="https://github.com/craciunoiuc">
     <img align="center" width="49%" src="./achievements.svg" />
-</a>
+</a> -->
 
 <!-- <a href="https://github.com/craciunoiuc">
     <img align="center" width="49%" src="./topics_icons.svg" />

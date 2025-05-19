@@ -7,23 +7,6 @@ on:
   push: {branches: ["main"]}
 
 jobs:
-
-  achievements:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: craciunoiuc
-          base: achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: B      # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes      # Display unlocked secrets achievements
-          plugin_achievements_display: compact  # Use compact display
-          plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
-
   github-metrics:
     runs-on: ubuntu-latest
     steps:
@@ -67,25 +50,6 @@ jobs:
           template: classic
           base: activity, community
           config_timezone: ${{ secrets.USER_TIMEZONE }}
-
-  iso_calender:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: iso_calender.svg
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_SECRET }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: craciunoiuc
-          template: classic
-          base: ""
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
 
   habits:
     runs-on: ubuntu-latest
@@ -176,14 +140,3 @@ jobs:
           token: ${{ secrets.METRICS_SECRET }}
           base: ""
           plugin_gists: yes
-
-  contributions:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: contributions-indepth.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          base: ""
-          plugin_notable: yes
-          plugin_notable_repositories: yes
