@@ -20,9 +20,9 @@
     <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
 
-<a href="https://github.com/craciunoiuc">
+<!-- <a href="https://github.com/craciunoiuc">
   <img align="center" width="49%" src="./github-habits.svg" />
-</a>
+</a> -->
 
 <!-- <a href="https://github.com/craciunoiuc">
     <img align="center" width="49%" src="./contributions-indepth.svg" />
@@ -41,4 +41,4 @@
     <img align="center" width="49%" src="./stackoverflow.svg" />
 </a> -->
 
-<img src="https://profile-counter.glitch.me/craciunoiuc/count.svg" />
+<!-- <img src="https://profile-counter.glitch.me/craciunoiuc/count.svg" /> -->
